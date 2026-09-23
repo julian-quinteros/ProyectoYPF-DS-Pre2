@@ -12,4 +12,4 @@ Datos de producción de petróleo y gas en los Estados Unidos. El objetivo es de
 
 - Tabla: 470830 líneas y 11 columnas
 - Datos nulos: varios en State, County, FIPS Code (similar a CP), y offshore region.
-- Drapeamos las columnas County y FIPS Code ya que consideramos que sería un análisis demasiado fino; aquellos datos que no tengan el dato State se le coloca "sin datos"; aquellas regiones que sean onshore, se le coloca "onshore" en la columna Offshore Región para eliminar los valores null.
+- Dropeamos las columnas County y FIPS Code ya que consideramos que sería un análisis demasiado fino; aquellos datos que no tengan el dato State se le coloca "sin datos"; aquellas regiones que sean onshore, se le coloca "onshore" en la columna Offshore Región para eliminar los valores null.
