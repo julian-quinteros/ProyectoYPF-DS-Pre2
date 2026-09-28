@@ -2,9 +2,9 @@
 
 Miembros:
 
- - Martínez, Alam / Ingeniero de Petróleos
+ - Martínez, Alam / Ingeniero de Petróleos / martinezalam19@gmail.com
  - Ulloa, Gabriel / Upstream
- - Quinteros, Julián Ezequiel / Ingeniero de Petróleos
+ - Quinteros, Julián Ezequiel / Ingeniero de Petróleos / julian15quinteros@gmail.com
 
 Proyecto:
 
